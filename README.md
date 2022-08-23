@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madegilangaditya
 - 💻 I'm Wordpress drag n drop user
-- 🖥 I'm Junior HTML, CSS, JS Front End Website Dev
+- 🖥 I'm HTML, CSS, JS Front End Website Dev
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on website project
